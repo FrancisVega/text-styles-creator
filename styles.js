@@ -1,3 +1,4 @@
+// Imports
 const fs = require('fs');
 
 // Sketch constants
@@ -7,11 +8,7 @@ const alignment = {
   center: 2,
 };
 
-// Functions
-const createStyle =
-  (name, font, size, spacing, lineHeight, color, alignment, textTransform = 0 ) =>
-  ({ name, font, size, color, alignment, spacing, lineHeight, textTransform });
-
+// Helper functions
 const hexToRGB =
   (hex, alpha = 1) =>
   ({
@@ -21,18 +18,16 @@ const hexToRGB =
     alpha: alpha
   });
 
+// Config file
 const config = JSON.parse(fs.readFileSync('fonts.json', 'utf8'));
 
 // map the color
-const parse = config.map(x => {
-  const hexColor = x.color;
-  const rgbaColor = hexToRGB(hexColor);
-  x.color = rgbaColor
-  x.alignment = alignment[x.alignment]
-  return x
+const parse = config.map(style => {
+  style.color = hexToRGB(style.color);
+  style.alignment = alignment[style.alignment];
+  return style;
 });
 
-const styles = { 'styles': parse }
-const out = JSON.stringify(styles, null, 2);
+const styleExportFile = JSON.stringify({ 'styles': parse }, null, 2);
 
-fs.writeFileSync('/Users/hisco/Desktop/_styles.json', out);
+fs.writeFileSync('/Users/hisco/Desktop/_styles.json', styleExportFile);
