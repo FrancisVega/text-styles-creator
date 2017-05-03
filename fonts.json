@@ -1,0 +1,22 @@
+[
+    {
+        "name": "@XL/Headings/left/Heading XL $ pyrite",
+        "font": "SofiaPro-Bold",
+        "color": "#ff0500",
+        "size": 64,
+        "spacing": -1.5,
+        "lineHeight": 64,
+        "alignment": "left",
+        "textTransform": 0
+    },
+    {
+        "name": "@XL/Headings/left/Heading XL $ pyrite",
+        "font": "SofiaPro-Bold",
+        "color": "#00ff00",
+        "size": 32,
+        "spacing": -1.5,
+        "lineHeight": 64,
+        "alignment": "right",
+        "textTransform": 0
+    }
+]
