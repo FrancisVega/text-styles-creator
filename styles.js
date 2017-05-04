@@ -9,7 +9,7 @@ const alignment = {
 };
 
 // Read config file
-const config = JSON.parse(fs.readFileSync('fonts.json', 'utf8'));
+const config = JSON.parse(fs.readFileSync('googlesheet.json', 'utf8'));
 
 // Functions
 const hexToRGB = (hex, alpha = 1) => ({

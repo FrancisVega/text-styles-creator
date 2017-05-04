@@ -1,0 +1,662 @@
+[
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 119,
+      "lineHeight" : 178.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tera/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 95,
+      "lineHeight" : 142.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Giga/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 76,
+      "lineHeight" : 114,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Mega/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 61,
+      "lineHeight" : 91.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XXL/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 49,
+      "lineHeight" : 73.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XL/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 39,
+      "lineHeight" : 58.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/L/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 31,
+      "lineHeight" : 46.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/M/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 25,
+      "lineHeight" : 37.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/S/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 20,
+      "lineHeight" : 30,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XS/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 16,
+      "lineHeight" : 24,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Body/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#1A1A1A",
+      "size" : 13,
+      "lineHeight" : 20,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tiny/left/light/coal"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 119,
+      "lineHeight" : 178.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tera/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 95,
+      "lineHeight" : 142.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Giga/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 76,
+      "lineHeight" : 114,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Mega/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 61,
+      "lineHeight" : 91.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XXL/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 49,
+      "lineHeight" : 73.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XL/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 39,
+      "lineHeight" : 58.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/L/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 31,
+      "lineHeight" : 46.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/M/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 25,
+      "lineHeight" : 37.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/S/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 20,
+      "lineHeight" : 30,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XS/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 16,
+      "lineHeight" : 24,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Body/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#aaaaaa",
+      "size" : 13,
+      "lineHeight" : 20,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tiny/left/light/silver"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 119,
+      "lineHeight" : 178.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tera/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 95,
+      "lineHeight" : 142.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Giga/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 76,
+      "lineHeight" : 114,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Mega/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 61,
+      "lineHeight" : 91.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XXL/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 49,
+      "lineHeight" : 73.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XL/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 39,
+      "lineHeight" : 58.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/L/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 31,
+      "lineHeight" : 46.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/M/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 25,
+      "lineHeight" : 37.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/S/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 20,
+      "lineHeight" : 30,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XS/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 16,
+      "lineHeight" : 24,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Body/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaProLight",
+      "color" : "#bea482",
+      "size" : 13,
+      "lineHeight" : 20,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tiny/left/light/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 119,
+      "lineHeight" : 178.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tera/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 95,
+      "lineHeight" : 142.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Giga/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 76,
+      "lineHeight" : 114,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Mega/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 61,
+      "lineHeight" : 91.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XXL/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 49,
+      "lineHeight" : 73.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XL/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 39,
+      "lineHeight" : 58.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/L/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 31,
+      "lineHeight" : 46.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/M/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 25,
+      "lineHeight" : 37.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/S/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 20,
+      "lineHeight" : 30,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XS/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 16,
+      "lineHeight" : 24,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Body/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#1A1A1A",
+      "size" : 13,
+      "lineHeight" : 20,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tiny/left/bold/coal"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 119,
+      "lineHeight" : 178.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tera/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 95,
+      "lineHeight" : 142.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Giga/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 76,
+      "lineHeight" : 114,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Mega/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 61,
+      "lineHeight" : 91.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XXL/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 49,
+      "lineHeight" : 73.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XL/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 39,
+      "lineHeight" : 58.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/L/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 31,
+      "lineHeight" : 46.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/M/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 25,
+      "lineHeight" : 37.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/S/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 20,
+      "lineHeight" : 30,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XS/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 16,
+      "lineHeight" : 24,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Body/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#aaaaaa",
+      "size" : 13,
+      "lineHeight" : 20,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tiny/left/bold/silver"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 119,
+      "lineHeight" : 178.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tera/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 95,
+      "lineHeight" : 142.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Giga/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 76,
+      "lineHeight" : 114,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Mega/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 61,
+      "lineHeight" : 91.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XXL/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 49,
+      "lineHeight" : 73.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XL/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 39,
+      "lineHeight" : 58.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/L/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 31,
+      "lineHeight" : 46.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/M/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 25,
+      "lineHeight" : 37.5,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/S/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 20,
+      "lineHeight" : 30,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/XS/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 16,
+      "lineHeight" : 24,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Body/left/bold/pyrite"
+    },
+    {
+      "font" : "SofiaPro-Bold",
+      "color" : "#bea482",
+      "size" : 13,
+      "lineHeight" : 20,
+      "spacing" : -1,
+      "alignment" : "left",
+      "textTransform" : 0,
+      "name" : "@desktop/Headings/Tiny/left/bold/pyrite"
+    }
+  ]
